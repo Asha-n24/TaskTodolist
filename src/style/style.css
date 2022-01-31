@@ -1,0 +1,53 @@
+.divclass{    
+    border-radius: 7px;
+    padding: 5% 19%;
+}
+.bg-img{
+    background-image: url("../image//backgroundimage.jpg");
+    height:100vh
+}
+.div-class{
+    margin: 9% 17%;
+    padding: 2% 3%;
+    border: 1px solid grey;
+    background-color: white;
+}
+.css-2b097c-container {
+    margin-top: 3%;
+
+}
+th,td{
+    padding-right:5px;
+    padding-bottom:10px;
+    padding-top:10px;
+   
+}
+tbody,td{
+    border:1px solid lightgrey !important;
+}
+thead{
+    margin-bottom:4%;
+}
+.tablestyle{
+    width:100%;
+ 
+}
+.btnstyle{
+    background-color: green !important;
+    color:white !important;
+    padding:4px 4px;
+    border-radius: 4px;
+    cursor:pointer;
+}
+
+#list{
+    cursor:pointer;
+}
+label{
+    color: blue;
+    font-weight: 600;
+}
+.form-group{
+    width:100%;
+    padding: 1% 3%;
+}
